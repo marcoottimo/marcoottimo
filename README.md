@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @marcoottimo
-- 👀 I’m interested in Systems, Networks, Security and Game Development/Design.
-- 📫 How to reach me you can't.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
-<!---
-marcoottimo/marcoottimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Marco Ottimo, the mind behind BlackHoleDynamics, a solo dev studio where code meets the cosmos. I build games that echo the mysteries of the universe, driven by the quiet pull of curiosity and a love for the unknown. Each project is a constellation of ideas, stitched together with pixels, physics, and passion. Here, development is less about rushing to the finish line and more about orbiting around the process — reflecting, refining, and reaching for something a little beyond.
